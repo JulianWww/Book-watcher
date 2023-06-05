@@ -1,0 +1,23 @@
+{
+  "name": "denanu/next-book-available",
+  "type": "project",
+  "require": {
+      "denanu/login": "dev-main"
+  },
+  "license": "MIT",
+  "autoload": {
+      "psr-4": {
+          "Denanu\\DenanuDnd\\": "public/server_backend/vendor"
+      }
+  },
+  "authors": [
+      {
+          "name": "Julian Wandhoven",
+          "email": "Julian.wandhoven@gmail.com"
+      }
+  ],
+  "config": {
+      "vendor-dir": "public/server_backend/vendor"
+  },
+  "minimum-stability": "dev"
+}

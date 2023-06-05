@@ -1,0 +1,6 @@
+
+node_modules/
+public/server_backend/vendor/
+build/
+*.pyc
+public/server_backend/data/mail_api_key.txt
